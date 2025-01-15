@@ -16,3 +16,5 @@ Features
 
 - Disease Information: Users receive basic information about the predicted disease stage and can perform a Google search for further details.
 
+The link to the model .h5 file: https://drive.google.com/file/d/1BHSOuiak4PV9c-_g-8OOBBQyMaqTqoX_/view?usp=sharing 
+
